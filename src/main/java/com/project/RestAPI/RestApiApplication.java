@@ -4,7 +4,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
-// Added by VAsu Ratanpara
 @SpringBootApplication
 public class RestApiApplication {
 
@@ -23,8 +22,13 @@ public class RestApiApplication {
 		SpringApplication.run(RestApiApplication.class, args);
 		//System.out.println("Rest API");
 		//System.out.println("Demo");
-		
-	
+
+		while (true) {
+			
+		System.out.println("Vasu Ratanpara");
+			
+		}
 	}
 
 }
+
