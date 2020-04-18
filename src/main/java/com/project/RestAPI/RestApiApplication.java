@@ -11,8 +11,8 @@ public class RestApiApplication {
 	public static void main(String[] args) {
 		//SpringApplication.run(RestApiApplication.class, args);
 		System.out.println("Rest API");
-		String s="NIdhi";
-		if(s.equalsIgnoreCase("Nidhi"))
+		String s="HELLO";
+		if(s.equalsIgnoreCase("Hello"))
 		{
 			System.out.println("true");
 		}
@@ -23,7 +23,8 @@ public class RestApiApplication {
 		SpringApplication.run(RestApiApplication.class, args);
 		//System.out.println("Rest API");
 		//System.out.println("Demo");
-		System.out.println("Vasu Ratanpara");
+		
+	
 	}
 
 }
