@@ -23,7 +23,12 @@ public class RestApiApplication {
 		SpringApplication.run(RestApiApplication.class, args);
 		//System.out.println("Rest API");
 		//System.out.println("Demo");
+
+		while (True) {
+			
 		System.out.println("Vasu Ratanpara");
+			
+		}
 	}
 
 }
