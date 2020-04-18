@@ -25,11 +25,13 @@ public class RestApiApplication {
 		//System.out.println("Rest API");
 		//System.out.println("Demo");
 
-		while (true) {
-			
-		System.out.println("Vasu Ratanpara");
-			
-		}
+		/*
+		 * while (true) {
+		 * 
+		 * System.out.println("Vasu Ratanpara");
+		 * 
+		 * }
+		 */
 	}
 
 }
