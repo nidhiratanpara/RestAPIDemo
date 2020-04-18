@@ -7,9 +7,17 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RestApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestApiApplication.class, args);
+		//SpringApplication.run(RestApiApplication.class, args);
 		System.out.println("Rest API");
-		System.out.println("Demo");
+		String s="NIdhi";
+		if(s.equalsIgnoreCase("Nidhi"))
+		{
+			System.out.println("true");
+		}
+		else {
+			System.out.println("false");
+		}
+		//System.out.println("Demo");
 	}
 
 }
