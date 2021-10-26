@@ -29,7 +29,7 @@ public class RestApiApplication {
 		/*
 		 * while (true) {
 		 * 
-		 * System.out.println("Vasu Ratanpara");
+		 * System.out.println("This is Demo");
 		 * 
 		 * }
 		 */
