@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 
-// Added by VAsu Ratanpara
 @SpringBootApplication
 public class RestApiApplication {
 
